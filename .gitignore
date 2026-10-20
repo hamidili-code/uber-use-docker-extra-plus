@@ -1,0 +1,6 @@
+.env
+*.env
+uber.emv
+loki/data/
+*.tar
+*.tar.gz
